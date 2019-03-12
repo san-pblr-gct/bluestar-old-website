@@ -1,0 +1,22 @@
+.section-search input {
+  padding: 5px !important; 
+  width: 90% !important;
+  border: #2196F3 2px solid !important;
+}
+
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
+
+footer{
+  padding:0px!important;
+  bottom:0px
+}
+
+footer .flow-text
+{
+  font-size: 1.25 rem;
+  margin:0px;
+}
+
+
